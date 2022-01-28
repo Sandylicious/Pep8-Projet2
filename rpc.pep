@@ -7,8 +7,8 @@
 ; Roche (r) gagne contre ciseaux (c), ciseaux (c) gagne contre papier (p) et 
 ; papier (p) gagne contre roche (r). 
 ; 
-; Author: XRF
-;         SCA
+; Author: Fang, Xin Ran
+;         Ah-Lan, Steven Chia
 ;
 ;******* Debut du programme
 main:            LDA         0,i          
